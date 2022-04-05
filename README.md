@@ -17,8 +17,8 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/BrunoRafael-01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoRafael-01&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRafael-01&layout=compact&langs_count=7&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoRafael-01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRafael-01&layout=compact&langs_count=7&theme=github_dark">
 </div><br>
 
   
