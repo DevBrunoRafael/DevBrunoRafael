@@ -23,6 +23,7 @@
 
   
 ##  :gear: Technologies
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="450px" max-width="450px" width="450px" align="right" alt="Computador iuriCode">
   
 ### I am studying:
 <div style="display: inline">
