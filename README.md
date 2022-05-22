@@ -1,17 +1,21 @@
 # Hello! I'am Bruno Rafael <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="370" height="240"/>
 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DevBrunoRafael)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devbrunorafaell@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5579998425258)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunorafael_ns/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](...)
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rafael-nascimento-dos-santos-955b9a234)
+
 #### Social links :point_up_2:
 
-<p>📚 Student at the Federal Institute of Sergipe</p>
-<p>💻 4th period in Information Systems</p>
-<p>👨‍💻 future Full Stack Developer</p>
-<p>🌎 North East Brazil </p>
-<br>
+  <p>📚 Student at the Federal Institute of Sergipe</p>
+  <p>💻 4th period in Information Systems</p> 
+  <p>👨‍💻 future Full Stack Developer</p>
+  <p>🌎 North East Brazil </p>
+  <br>
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="370" height="240"/>
 
 ## :bar_chart: GitHub Analytics
 
