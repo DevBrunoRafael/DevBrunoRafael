@@ -7,8 +7,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](...)
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rafael-nascimento-dos-santos-955b9a234)
 
-  <img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
-  <br><br>
+  <img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="270px"/>
 
 #### Social links :point_up_2:
   <p>📚 Student at the Federal Institute of Sergipe</p>
@@ -27,7 +26,7 @@
 
   
 ##  :gear: Technologies
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="450px" max-width="450px" width="450px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   
 ### I am studying:
 <div style="display: inline">
