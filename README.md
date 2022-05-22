@@ -7,15 +7,15 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](...)
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rafael-nascimento-dos-santos-955b9a234)
 
-#### Social links :point_up_2:
+  <img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
+  <br><br>
 
+#### Social links :point_up_2:
   <p>📚 Student at the Federal Institute of Sergipe</p>
   <p>💻 4th period in Information Systems</p> 
   <p>👨‍💻 future Full Stack Developer</p>
   <p>🌎 North East Brazil </p>
   <br>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="370" height="240"/>
 
 ## :bar_chart: GitHub Analytics
 
