@@ -7,7 +7,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](...)
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rafael-nascimento-dos-santos-955b9a234)
 
-  <img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="250px"/>
+  <img align="right" src="https://github.com/BrunoRafael-01/BrunoRafael-01/blob/main/illustration.png" width="250px"/>
 
 #### Social links :point_up_2:
   <p>📚 Student at the Federal Institute of Sergipe</p>
