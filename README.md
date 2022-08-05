@@ -11,7 +11,7 @@
 
 #### Social links :point_up_2:
   <p>📚 Student at the Federal Institute of Sergipe</p>
-  <p>💻 4th period in Information Systems</p> 
+  <p>💻 5th period in Information Systems</p> 
   <p>👨‍💻 future Full Stack Developer</p>
   <p>🌎 North East Brazil </p>
   <br>
