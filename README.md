@@ -26,9 +26,8 @@
 
   
 ##  :gear: Technologies
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   
-### Languages and frameworks that I have been studying and using in my projects:
+#### Languages and frameworks that I have been studying and using in my projects:
 <br>
 <div style="display: inline">
   <img align="center" alt="MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -42,6 +41,8 @@
   <img align="center" alt="TypeScript icon" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="ReactJs icon" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div></br>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
 ### I'm interested:
 <div style="display: block">
