@@ -27,7 +27,7 @@
   
 ##  :gear: Technologies
   
-#### Languages and frameworks that I have been studying and using in my projects:
+### Languages and frameworks that I have been studying and using in my projects:
 <br>
 <div style="display: inline">
   <img align="center" alt="MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
