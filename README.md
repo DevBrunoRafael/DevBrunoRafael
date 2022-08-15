@@ -35,6 +35,7 @@
   <img align="center" alt="spring icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="HTML" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="SCSS" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="bootstrap icon" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="JavaScript" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="NodeJs icon" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -68,7 +69,7 @@
 ##
 
 <p align="center" width="100%">
-    <img width= "50%" src="http://github-readme-streak-stats.herokuapp.com?user=DevBrunoRafael&theme=ads-juicy-fresh&hide_border=true" width="450"/>
+    <img width= "50%" src="http://github-readme-streak-stats.herokuapp.com?user=DevBrunoRafael&theme=gotham&hide_border=true" width="450"/>
 </p>
 
 ## 
