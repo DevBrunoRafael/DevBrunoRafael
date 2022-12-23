@@ -1,24 +1,47 @@
-# ㅤㅤㅤㅤㅤㅤㅤHello! I'am Bruno Rafael <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+<div align="center">
+   <h1>
+     Hello! I'am Bruno Rafael    
+     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
+   </h1>
+</div>
  
-ㅤㅤ[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DevBrunoRafael)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devbrunorafaell@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5579998425258)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunorafael_ns/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](...)
-[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rafael-nascimento-dos-santos-955b9a234)
+<div align="center">
+  <a href="https://twitter.com/DevBrunoRafael"> 
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:devbrunorafaell@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="http://wa.me/5579998425258">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/brunorafael_ns/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/DevBrunoRafael">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bruno-rafael-955b9a234/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
-  <img align="right" src="https://github.com/DevBrunoRafael/DevBrunoRafael/blob/main/illustration.png" width="250px"/>
 
 #### Social links :point_up_2:
-  <p>📚 Student at the Federal Institute of Sergipe</p>
-  <p>💻 5th period in Information Systems</p> 
-  <p>👨‍💻 future Full Stack Developer</p>
-  <p>🌎 North East Brazil </p>
-  <br>
+
+ <div>
+   <p>📚 Student at the Federal Institute of Sergipe</p>
+   <p>💻 5th period in Information Systems</p> 
+   <p>👨‍💻 future Full Stack Developer</p>
+   <p>🌎 North East Brazil </p>
+ </div>
+<img src="" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
+
+<br>
 
 ## :bar_chart: GitHub Analytics
 
-<div style="display: inline">
+<div align="center">
   <a href="https://github.com/BrunoRafael-01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevBrunoRafael&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBrunoRafael&layout=compact&langs_count=7&theme=github_dark">
@@ -83,10 +106,13 @@
 
 ##
 
-<p align="center" width="100%">
-    <img width= "50%" src="http://github-readme-streak-stats.herokuapp.com?user=DevBrunoRafael&theme=gotham&hide_border=true" width="450"/>
-</p>
+<div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=DevBrunoRafael&theme=gotham&hide_border=true" width="450"/>
+</div>
 
 ## 
+<div align="center">
+    <img height="290em" src="https://github-readme-activity-graph.cyclic.app/graph?username=DevBrunoRafael&theme=gotham&hide_border=true&radius=500">
+</div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DevBrunoRafael&theme=gotham)](https://github.com/DevBrunoRafael/github-readme-activity-graph)
+
