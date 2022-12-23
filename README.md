@@ -28,15 +28,13 @@
 
 
 #### Social links :point_up_2:
-
+<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif" min-width="380px" max-width="380px" width="380px" align="right">
  <div>
    <p>📚 Student at the Federal Institute of Sergipe</p>
    <p>💻 5th period in Information Systems</p> 
    <p>👨‍💻 future Full Stack Developer</p>
    <p>🌎 North East Brazil </p>
  </div>
-<img src="" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
-
 <br>
 
 ## :bar_chart: GitHub Analytics
@@ -52,7 +50,7 @@
   
 ### Languages and frameworks that I have been studying and using in my projects:
 <br>
-<div style="display: flex">
+<!-- <div style="display: flex">
   <img align="center" alt="postgres" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="MySQL" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="mongo db" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
@@ -76,9 +74,215 @@
   <img align="center" alt="nest js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
  <img align="center" alt="heroku icon" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
  <img align="center" alt="spring icon" height="35" width="45" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/jest.svg">
-</div></br>
+</div> -->
+ 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="450px" max-width="450px" width="450px" align="right">
+   
+<table height="350em">
+  <tr>
+    <td align="center" style="width: 55px;">
+       <img align="center" alt="postgres" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+       <sub>
+        <b>
+          postgres
+        </b>
+      </sub>
+    </td>
+    <td align="center" style="width: 55px;">
+      <img align="center" alt="MySQL" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+      <sub>
+        <b>
+          MySql
+        </b>
+      </sub>
+    </td>
+    <td align="center" style="width: 55px;">
+      <img align="center" alt="mongo db" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+      <sub>
+        <b>
+          MogoDB
+        </b>
+      </sub>
+    </td>
+    <td align="center" style="width: 55px;">
+      <img align="center" alt="Redis" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+      <sub>
+        <b>
+          Redis
+        </b>
+      </sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img align="center" alt="Hibernate" width="35" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" />
+      <sub>
+        <b>
+          Hibernate
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img align="center" alt="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+      <sub>
+        <b>
+          Java
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img align="center" alt="spring icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+      <sub>
+        <b>
+          Spring
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img align="center" alt="bootstrap icon" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+      <sub>
+        <b>
+          Bootstrap
+        </b>
+      </sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img align="center" alt="springboot icon" width="40" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png">
+      <sub>
+        <b>
+          SpringBoot
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img align="center" alt="HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <sub>
+        <b>
+          HTML
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img align="center" alt="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <sub>
+        <b>
+          CSS
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img align="center" alt="SCSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+      <sub>
+        <b>
+          Sass
+        </b>
+      </sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img align="center" alt="express" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+      <sub>
+        <b>
+          Express
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img align="center" alt="JavaScript" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+      <sub>
+        <b>
+          JavaScript
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img align="center" alt="nest js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+      <sub>
+        <b>
+          NestJs
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img align="center" alt="spring icon" width="40" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png"> 
+      <sub>
+        <b>
+          Swagger
+        </b>
+      </sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img align="center" alt="NodeJs icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+      <sub>
+        <b>
+          NodeJs
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img align="center" alt="TypeScript icon" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+      <sub>
+        <b>
+          Typescript
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img align="center" alt="ReactJs icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+      <sub>
+        <b>
+          React
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img align="center" alt="taiwind" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+      <sub>
+        <b>
+          Tailwind
+        </b>
+      </sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img align="center" alt="docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+      <sub>
+        <b>
+          Docker
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img align="center" alt="heroku icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
+      <sub>
+        <b>
+          Heroku
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img align="center" alt="spring icon" width="35" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/jest.svg">
+      <sub>
+        <b>
+          Jest
+        </b>
+      </sub>
+    </td>
+  </tr>
+</table></br>
+</br>
 
 ### I'm interested:
 <div style="display: block">
