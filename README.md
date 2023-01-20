@@ -165,6 +165,9 @@
     <td align="center">
       <img align="center" alt="spring icon" width="35" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/jest.svg">
     </td>
+    <td align="center">
+      <img align="center" alt="spring icon" width="35" src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png">
+    </td>
   </tr>
 </table></br>
 </br>
