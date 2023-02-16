@@ -48,7 +48,7 @@
   
 ##  :gear: Technologies
   
-### Languages and frameworks that I have been studying and using in my projects:
+### some of the technologies that I have already used in the implementation of my projects:
 <br>
  
 
@@ -56,7 +56,7 @@
    
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,hibernate,java,spring,bootstrap,html,css,js,express,nestjs,prisma,sass,styledcomponents,nodejs,ts,react,vite,tailwind,docker,heroku,jest&perline=5" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,planetscale,hibernate,java,spring,rabbitmq,bootstrap,html,css,js,express,nestjs,prisma,sass,styledcomponents,nodejs,ts,react,vite,tailwind,docker,heroku,jest,angular&perline=5" />
   </a>
 </p>
 </br>
@@ -65,14 +65,14 @@
 ### I'm interested:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,firebase,gitlab,githubactions,go,graphql,grafana,kafka,kubernetes,prometheus,redux,nextjs,jenkins" />
+    <img src="https://skillicons.dev/icons?i=aws,firebase,githubactions,go,graphql,grafana,kafka,kubernetes,prometheus,redux,nextjs,jenkins" />
   </a>
 </p></br>
 
 ### daily use:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=codepen,figma,git,idea,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=codepen,vercel,figma,git,idea,postman,vscode" />
   </a>
 </p></br>
 
