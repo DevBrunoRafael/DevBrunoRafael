@@ -56,7 +56,7 @@
    
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,planetscale,hibernate,java,spring,rabbitmq,bootstrap,html,css,js,express,nestjs,prisma,sass,styledcomponents,nodejs,ts,react,vite,tailwind,docker,heroku,jest,angular&perline=5" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,planetscale,hibernate,java,spring,rabbitmq,bootstrap,html,css,js,express,nestjs,prisma,sass,styledcomponents,nodejs,ts,react,vite,tailwind,docker,heroku,jest,angular,prometheus,grafana&perline=5" />
   </a>
 </p>
 </br>
@@ -65,7 +65,7 @@
 ### I'm interested:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,firebase,githubactions,go,graphql,grafana,kafka,kubernetes,prometheus,redux,nextjs,jenkins" />
+    <img src="https://skillicons.dev/icons?i=aws,firebase,githubactions,go,graphql,kafka,kubernetes,redux,nextjs,jenkins" />
   </a>
 </p></br>
 
