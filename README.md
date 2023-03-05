@@ -54,25 +54,55 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="450px" max-width="450px" width="450px" align="right">
    
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,planetscale,hibernate,java,spring,rabbitmq,bootstrap,html,css,js,express,nestjs,prisma,sass,styledcomponents,nodejs,ts,react,vite,tailwind,docker,heroku,jest,angular,prometheus,grafana&perline=5" />
-  </a>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=redis" />
+    <img src="https://skillicons.dev/icons?i=hibernate" />
+    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=spring" />
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=kafka" />
+    <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <img width="46" src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png">
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=sass" />
+    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=ts" />
+    <img src="https://skillicons.dev/icons?i=express" />
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=jest" />
+    <img src="https://skillicons.dev/icons?i=nestjs" />
+    <img src="https://skillicons.dev/icons?i=prisma" />
+    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=angular" />
+    <img src="https://skillicons.dev/icons?i=vite" />
+    <img src="https://skillicons.dev/icons?i=styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+    <img src="https://skillicons.dev/icons?i=prometheus" />
+    <img src="https://skillicons.dev/icons?i=grafana" />
+    <img src="https://skillicons.dev/icons?i=graphql" />
+    <img src="https://skillicons.dev/icons?i=heroku" />
 </p>
 </br>
 </br>
 
 ### I'm interested:
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,firebase,githubactions,go,graphql,kafka,kubernetes,redux,nextjs,jenkins" />
-  </a>
-</p></br>
+    <img src="https://skillicons.dev/icons?i=aws,firebase,githubactions,kubernetes,redux,nextjs,jenkins" />
+    <img width="50" src="https://img.icons8.com/fluency/1x/terraform.png" />
+    <img width="50" src="https://img.icons8.com/color/1x/elasticsearch.png" />
+    <img width="50" src="https://img.icons8.com/color/1x/kibana.png" />
+</p>
 
 ### daily use:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=codepen,vercel,figma,git,idea,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=codepen,vercel,figma,idea,postman,vscode" />
   </a>
 </p></br>
 
