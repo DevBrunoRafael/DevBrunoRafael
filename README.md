@@ -117,5 +117,5 @@
     <img height="290em" src="https://github-readme-activity-graph.cyclic.app/graph?username=DevBrunoRafael&theme=gotham&hide_border=true&radius=500">
 </div>
 
-![blank](https://github.com/DevBrunoRafael)
+![snake animation](https://github.com/DevBrunoRafael)
 
