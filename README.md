@@ -87,13 +87,14 @@
     <img src="https://skillicons.dev/icons?i=grafana" />
     <img src="https://skillicons.dev/icons?i=graphql" />
     <img src="https://skillicons.dev/icons?i=heroku" />
+   <img src="https://skillicons.dev/icons?i=selenium" />
 </p>
 </br>
 </br>
 
 ### I'm interested:
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=aws,firebase,githubactions,kubernetes,redux,nextjs,jenkins" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,firebase,githubactions,kubernetes,redux,nextjs,jenkins" />
     <img width="50" src="https://img.icons8.com/fluency/1x/terraform.png" />
     <img width="50" src="https://img.icons8.com/color/1x/elasticsearch.png" />
     <img width="50" src="https://img.icons8.com/color/1x/kibana.png" />
@@ -118,5 +119,5 @@
 </div>
 
 
-![Snake animation](https://github.com/DevBrunoRafael/DevBrunoRafael/blop/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DevBrunoRafael/DevBrunoRafael/blob/output/github-contribution-grid-snake.svg)
 
