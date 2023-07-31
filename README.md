@@ -81,7 +81,7 @@
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=angular" />
     <img src="https://skillicons.dev/icons?i=vite" />
-      <img src="https://skillicons.dev/icons?i=next" />
+   <img src="https://skillicons.dev/icons?i=next" />
    <img src="https://skillicons.dev/icons?i=dart" />
    <img src="https://skillicons.dev/icons?i=flutter" />
     <img src="https://skillicons.dev/icons?i=styledcomponents" />
@@ -91,6 +91,9 @@
     <img src="https://skillicons.dev/icons?i=graphql" />
     <img src="https://skillicons.dev/icons?i=heroku" />
    <img src="https://skillicons.dev/icons?i=selenium" />
+   <img src="https://skillicons.dev/icons?i=aws" />
+
+          
 
 </p>
 </br>
@@ -98,7 +101,7 @@
 
 ### I'm interested:
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=aws,azure,firebase,githubactions,kubernetes,redux,nextjs,jenkins" />
+    <img src="https://skillicons.dev/icons?i=azure,firebase,githubactions,kubernetes,jenkins" />
     <img width="50" src="https://img.icons8.com/fluency/1x/terraform.png" />
     <img width="50" src="https://img.icons8.com/color/1x/elasticsearch.png" />
     <img width="50" src="https://img.icons8.com/color/1x/kibana.png" />
@@ -118,10 +121,6 @@
 </div>
 
 ## 
-<div align="center">
-    <img height="290em" src="https://github-readme-activity-graph.cyclic.app/graph?username=DevBrunoRafael&theme=gotham&hide_border=true&radius=500">
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevBrunoRafael&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-![snake gif](https://github.com/DevBrunoRafael/DevBrunoRafael/blob/output/github-contribution-grid-snake.svg)
 
