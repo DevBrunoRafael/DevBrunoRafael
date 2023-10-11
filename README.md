@@ -92,6 +92,7 @@
     <img src="https://skillicons.dev/icons?i=heroku" />
    <img src="https://skillicons.dev/icons?i=selenium" />
    <img src="https://skillicons.dev/icons?i=aws" />
+   <img src="https://skillicons.dev/icons?i=kubernetes" />
 
           
 
@@ -101,7 +102,7 @@
 
 ### I'm interested:
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=azure,firebase,githubactions,kubernetes,jenkins" />
+    <img src="https://skillicons.dev/icons?i=azure,firebase,githubactions,jenkins" />
     <img width="50" src="https://img.icons8.com/fluency/1x/terraform.png" />
     <img width="50" src="https://img.icons8.com/color/1x/elasticsearch.png" />
     <img width="50" src="https://img.icons8.com/color/1x/kibana.png" />
