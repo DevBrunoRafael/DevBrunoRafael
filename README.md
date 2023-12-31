@@ -86,14 +86,18 @@
    <img src="https://skillicons.dev/icons?i=flutter" />
     <img src="https://skillicons.dev/icons?i=styledcomponents" />
     <img src="https://skillicons.dev/icons?i=tailwind" />
+    <img src="https://skillicons.dev/icons?i=firebase" />
+    <img src="https://skillicons.dev/icons?i=linux" />
     <img src="https://skillicons.dev/icons?i=prometheus" />
     <img src="https://skillicons.dev/icons?i=grafana" />
     <img src="https://skillicons.dev/icons?i=graphql" />
     <img src="https://skillicons.dev/icons?i=heroku" />
    <img src="https://skillicons.dev/icons?i=selenium" />
+   <img src="https://skillicons.dev/icons?i=dotnet" />
+   <img src="https://skillicons.dev/icons?i=cs" />
    <img src="https://skillicons.dev/icons?i=aws" />
    <img src="https://skillicons.dev/icons?i=kubernetes" />
-
+   <img src="https://skillicons.dev/icons?i=githubactions" />
           
 
 </p>
@@ -102,7 +106,7 @@
 
 ### I'm interested:
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=azure,firebase,githubactions,jenkins" />
+    <img src="https://skillicons.dev/icons?i=azure,jenkins" />
     <img width="50" src="https://img.icons8.com/fluency/1x/terraform.png" />
     <img width="50" src="https://img.icons8.com/color/1x/elasticsearch.png" />
     <img width="50" src="https://img.icons8.com/color/1x/kibana.png" />
