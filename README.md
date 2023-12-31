@@ -106,7 +106,7 @@
 
 ### I'm interested:
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=azure,jenkins" />
+    <img src="https://skillicons.dev/icons?i=ansible,azure,jenkins" />
     <img width="50" src="https://img.icons8.com/fluency/1x/terraform.png" />
     <img width="50" src="https://img.icons8.com/color/1x/elasticsearch.png" />
     <img width="50" src="https://img.icons8.com/color/1x/kibana.png" />
