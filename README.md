@@ -31,7 +31,7 @@
 <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif" min-width="380px" max-width="380px" width="380px" align="right">
  <div>
    <p>📚 Student at the Federal Institute of Sergipe</p>
-   <p>💻 7th period in Information Systems</p> 
+   <p>🎓 Bachelor of Information Systems</p> 
    <p>👨‍💻 Web Full Stack Developer</p>
    <p>🌎 North East Brazil </p>
  </div>
