@@ -67,7 +67,7 @@
     <img src="https://skillicons.dev/icons?i=kafka" />
     <img src="https://skillicons.dev/icons?i=docker" />
     <img src="https://skillicons.dev/icons?i=bootstrap" />
-    <img width="46" src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png">
+    <img width="46" src="https://www.thymeleaf.org/images/thymeleaf.png">
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=css" />
     <img src="https://skillicons.dev/icons?i=sass" />
@@ -98,7 +98,8 @@
    <img src="https://skillicons.dev/icons?i=aws" />
    <img src="https://skillicons.dev/icons?i=kubernetes" />
    <img src="https://skillicons.dev/icons?i=githubactions" />
-          
+   <img src="https://skillicons.dev/icons?i=tauri" />
+   <img src="https://skillicons.dev/icons?i=electron" />       
 
 </p>
 </br>
